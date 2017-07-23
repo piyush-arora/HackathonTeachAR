@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: ea24a367f13715a48b6ae3a13809726f
+timeCreated: 1500738868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: box
+    100004: box 1
+    100006: chamfer
+    100008: chamfer 1
+    100010: chamfer 10
+    100012: chamfer 11
+    100014: chamfer 12
+    100016: chamfer 13
+    100018: chamfer 14
+    100020: chamfer 15
+    100022: chamfer 16
+    100024: chamfer 17
+    100026: chamfer 18
+    100028: chamfer 19
+    100030: chamfer 2
+    100032: chamfer 20
+    100034: chamfer 21
+    100036: chamfer 22
+    100038: chamfer 23
+    100040: chamfer 24
+    100042: chamfer 25
+    100044: chamfer 26
+    100046: chamfer 27
+    100048: chamfer 28
+    100050: chamfer 29
+    100052: chamfer 3
+    100054: chamfer 30
+    100056: chamfer 31
+    100058: chamfer 32
+    100060: chamfer 33
+    100062: chamfer 34
+    100064: chamfer 35
+    100066: chamfer 36
+    100068: chamfer 37
+    100070: chamfer 38
+    100072: chamfer 39
+    100074: chamfer 4
+    100076: chamfer 40
+    100078: chamfer 41
+    100080: chamfer 42
+    100082: chamfer 43
+    100084: chamfer 44
+    100086: chamfer 45
+    100088: chamfer 46
+    100090: chamfer 47
+    100092: chamfer 48
+    100094: chamfer 49
+    100096: chamfer 5
+    100098: chamfer 6
+    100100: chamfer 7
+    100102: chamfer 8
+    100104: chamfer 9
+    100106: group_0
+    100108: ID518
+    100110: ID526
+    100112: ID544
+    100114: ID548
+    100116: ID552
+    100118: ID556
+    100120: instance_0
+    100122: skp_camera_Last_Saved_SketchUp_View
+    100124: slider
+    100126: slider21825
+    400000: //RootNode
+    400002: box
+    400004: box 1
+    400006: chamfer
+    400008: chamfer 1
+    400010: chamfer 10
+    400012: chamfer 11
+    400014: chamfer 12
+    400016: chamfer 13
+    400018: chamfer 14
+    400020: chamfer 15
+    400022: chamfer 16
+    400024: chamfer 17
+    400026: chamfer 18
+    400028: chamfer 19
+    400030: chamfer 2
+    400032: chamfer 20
+    400034: chamfer 21
+    400036: chamfer 22
+    400038: chamfer 23
+    400040: chamfer 24
+    400042: chamfer 25
+    400044: chamfer 26
+    400046: chamfer 27
+    400048: chamfer 28
+    400050: chamfer 29
+    400052: chamfer 3
+    400054: chamfer 30
+    400056: chamfer 31
+    400058: chamfer 32
+    400060: chamfer 33
+    400062: chamfer 34
+    400064: chamfer 35
+    400066: chamfer 36
+    400068: chamfer 37
+    400070: chamfer 38
+    400072: chamfer 39
+    400074: chamfer 4
+    400076: chamfer 40
+    400078: chamfer 41
+    400080: chamfer 42
+    400082: chamfer 43
+    400084: chamfer 44
+    400086: chamfer 45
+    400088: chamfer 46
+    400090: chamfer 47
+    400092: chamfer 48
+    400094: chamfer 49
+    400096: chamfer 5
+    400098: chamfer 6
+    400100: chamfer 7
+    400102: chamfer 8
+    400104: chamfer 9
+    400106: group_0
+    400108: ID518
+    400110: ID526
+    400112: ID544
+    400114: ID548
+    400116: ID552
+    400118: ID556
+    400120: instance_0
+    400122: skp_camera_Last_Saved_SketchUp_View
+    400124: slider
+    400126: slider21825
+    2300000: box
+    2300002: box 1
+    2300004: chamfer
+    2300006: chamfer 1
+    2300008: chamfer 10
+    2300010: chamfer 11
+    2300012: chamfer 12
+    2300014: chamfer 13
+    2300016: chamfer 14
+    2300018: chamfer 15
+    2300020: chamfer 16
+    2300022: chamfer 17
+    2300024: chamfer 18
+    2300026: chamfer 19
+    2300028: chamfer 2
+    2300030: chamfer 20
+    2300032: chamfer 21
+    2300034: chamfer 22
+    2300036: chamfer 23
+    2300038: chamfer 24
+    2300040: chamfer 25
+    2300042: chamfer 26
+    2300044: chamfer 27
+    2300046: chamfer 28
+    2300048: chamfer 29
+    2300050: chamfer 3
+    2300052: chamfer 30
+    2300054: chamfer 31
+    2300056: chamfer 32
+    2300058: chamfer 33
+    2300060: chamfer 34
+    2300062: chamfer 35
+    2300064: chamfer 36
+    2300066: chamfer 37
+    2300068: chamfer 38
+    2300070: chamfer 39
+    2300072: chamfer 4
+    2300074: chamfer 40
+    2300076: chamfer 41
+    2300078: chamfer 42
+    2300080: chamfer 43
+    2300082: chamfer 44
+    2300084: chamfer 45
+    2300086: chamfer 46
+    2300088: chamfer 47
+    2300090: chamfer 48
+    2300092: chamfer 49
+    2300094: chamfer 5
+    2300096: chamfer 6
+    2300098: chamfer 7
+    2300100: chamfer 8
+    2300102: chamfer 9
+    2300104: group_0
+    2300106: ID518
+    2300108: ID526
+    3300000: box
+    3300002: box 1
+    3300004: chamfer
+    3300006: chamfer 1
+    3300008: chamfer 10
+    3300010: chamfer 11
+    3300012: chamfer 12
+    3300014: chamfer 13
+    3300016: chamfer 14
+    3300018: chamfer 15
+    3300020: chamfer 16
+    3300022: chamfer 17
+    3300024: chamfer 18
+    3300026: chamfer 19
+    3300028: chamfer 2
+    3300030: chamfer 20
+    3300032: chamfer 21
+    3300034: chamfer 22
+    3300036: chamfer 23
+    3300038: chamfer 24
+    3300040: chamfer 25
+    3300042: chamfer 26
+    3300044: chamfer 27
+    3300046: chamfer 28
+    3300048: chamfer 29
+    3300050: chamfer 3
+    3300052: chamfer 30
+    3300054: chamfer 31
+    3300056: chamfer 32
+    3300058: chamfer 33
+    3300060: chamfer 34
+    3300062: chamfer 35
+    3300064: chamfer 36
+    3300066: chamfer 37
+    3300068: chamfer 38
+    3300070: chamfer 39
+    3300072: chamfer 4
+    3300074: chamfer 40
+    3300076: chamfer 41
+    3300078: chamfer 42
+    3300080: chamfer 43
+    3300082: chamfer 44
+    3300084: chamfer 45
+    3300086: chamfer 46
+    3300088: chamfer 47
+    3300090: chamfer 48
+    3300092: chamfer 49
+    3300094: chamfer 5
+    3300096: chamfer 6
+    3300098: chamfer 7
+    3300100: chamfer 8
+    3300102: chamfer 9
+    3300104: group_0
+    3300106: ID518
+    3300108: ID526
+    4300000: box
+    4300002: box
+    4300004: chamfer
+    4300006: chamfer
+    4300008: chamfer
+    4300010: chamfer
+    4300012: chamfer
+    4300014: chamfer
+    4300016: chamfer
+    4300018: chamfer
+    4300020: chamfer
+    4300022: chamfer
+    4300024: chamfer
+    4300026: chamfer
+    4300028: chamfer
+    4300030: chamfer
+    4300032: chamfer
+    4300034: chamfer
+    4300036: chamfer
+    4300038: chamfer
+    4300040: chamfer
+    4300042: chamfer
+    4300044: chamfer
+    4300046: chamfer
+    4300048: chamfer
+    4300050: chamfer
+    4300052: chamfer
+    4300054: chamfer
+    4300056: chamfer
+    4300058: chamfer
+    4300060: chamfer
+    4300062: chamfer
+    4300064: chamfer
+    4300066: chamfer
+    4300068: chamfer
+    4300070: chamfer
+    4300072: chamfer
+    4300074: chamfer
+    4300076: chamfer
+    4300078: chamfer
+    4300080: chamfer
+    4300082: chamfer
+    4300084: chamfer
+    4300086: chamfer
+    4300088: chamfer
+    4300090: chamfer
+    4300092: chamfer
+    4300094: chamfer
+    4300096: chamfer
+    4300098: chamfer
+    4300100: chamfer
+    4300102: chamfer
+    4300104: group_0
+    4300106: ID518
+    4300108: ID526
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
